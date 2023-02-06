@@ -1,2 +1,2 @@
 # rrhh
-Repositorio para el proyecto rrhh
+Modulo para aplicacion de recursos humanos
