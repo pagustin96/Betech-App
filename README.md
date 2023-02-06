@@ -1,1 +1,2 @@
-# Betech-App
+# rrhh
+Repositorio para el proyecto rrhh
